@@ -1,0 +1,1 @@
+The Intelligent Review System is a GUI for TAs of 2026 for understanding how students fare with all the different topics in the course. It displays relevant information that can help TAs make instructing decisions.

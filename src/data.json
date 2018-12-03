@@ -1,0 +1,89 @@
+{
+    "topics": [
+        {
+            "name": "Fourier Transform",
+            "description": "This is a description of the topic",
+            "difficulty": "9",
+            "questions": ["question1", "question2", "question3" ,"question4" , "question5"],
+            "graphArray": ["2","1","4","2","2"]
+        },
+        {
+            "name": "Radian Frequency",
+            "description": "This is a description of the topic",
+            "difficulty": "5",
+            "questions": ["q1", "q2", "q3"],
+            "graphArray": ["2","1","4"]
+        },
+        {
+            "name": "Sinusoidal Signals",
+            "description": "This is a description of the topic",
+            "difficulty": "2",
+            "questions": ["question1", "question2", "question3"],
+            "graphArray": ["2","1","4","2","2","5","6","2"]
+
+        },
+        {
+            "name": "Topic Name 2",
+            "description": "This is a description of the topic",
+            "difficulty": "5",
+            "questions": ["q1", "q2", "q3"]
+
+        },
+        {
+            "name": "Topic Name",
+            "description": "This is a description of the topic",
+            "difficulty": "9",
+            "questions": ["question1", "question2", "question3"]
+
+        },
+        {
+            "name": "Topic Name 2",
+            "description": "This is a description of the topic",
+            "difficulty": "2",
+            "questions": ["q1", "q2", "q3"]
+
+        },
+        {
+            "name": "Topic Name",
+            "description": "This is a description of the topic",
+            "difficulty": "9",
+            "questions": ["question1", "question2", "question3"]
+
+        },
+        {
+            "name": "Topic Name 2",
+            "description": "This is a description of the topic 2",
+            "difficulty": "1",
+            "questions": ["q1", "q2", "q3"]
+
+        },
+        {
+            "name": "Topic Name",
+            "description": "This is a description of the topic",
+            "difficulty": "9",
+            "questions": ["question1", "question2", "question3"]
+
+        },
+        {
+            "name": "Topic Name 2",
+            "description": "This is a description of the topic 2",
+            "difficulty": "5",
+            "questions": ["q1", "q2", "q3"]
+
+        },
+        {
+            "name": "Topic Name",
+            "description": "This is a description of the topic",
+            "difficulty": "9",
+            "questions": ["question1", "question2", "question3"]
+
+        },
+        {
+            "name": "Topic Name 2",
+            "description": "This is a description of the topic 2",
+            "difficulty": "3",
+            "questions": ["q1", "q2", "q3"]
+
+        }
+    ]
+}
